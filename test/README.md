@@ -1,0 +1,1 @@
+This app calculates and then breaks down the amount of change due for a given amount due and amount received.  It was written using react, and styled using bootstrap 4.0.0. the page can be seen on localport:300.
